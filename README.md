@@ -29,9 +29,9 @@ Este projeto não é apenas uma ferramenta funcional; é um exemplo da minha cap
 - **🔍 Abordagem Autodidata**: Dedicação ao aprendizado contínuo e aplicação de novas técnicas para resolver problemas complexos.
 - **💡 Criação de Soluções Práticas**: Desenvolvimento de ferramentas que atendem às necessidades reais dos desenvolvedores e melhoram a eficiência no trabalho.
 
-## 🚀 Sobre o Autor
+## 🚀 Sobre minha jornada na área de TI desde 2010
 
-Olá, sou **Elias Andrade**! Sou um profissional altamente qualificado com mais de 14 anos de experiência na área de TI, especializado em automação, análise de dados e desenvolvimento de software. Meu compromisso com a criação de soluções inovadoras e práticas é evidente em cada projeto que desenvolvo. Este projeto é mais um exemplo da minha paixão por tecnologia e minha dedicação à excelência.
+Sou um profissional altamente qualificado em projetos de alta disponibilidade e missão crítica, com mais de 14 anos de experiência na área de TI, especializado em automação, análise de dados e desenvolvimento de software. Meu compromisso com a criação de soluções inovadoras e práticas é evidente em cada projeto que desenvolvo. Este projeto é mais um exemplo da minha paixão por tecnologia e minha dedicação à excelência.
 
 ### 🌟 Minha Jornada
 
