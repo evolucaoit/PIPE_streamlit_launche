@@ -2,6 +2,12 @@
 
 Bem-vindo ao **PIPE Streamlit Launcher**! Este projeto é uma demonstração brilhante da minha habilidade em criar ferramentas poderosas e inovadoras para o desenvolvimento de aplicativos interativos. **PIPE** é um lançador de aplicações Streamlit que simplifica e agiliza o processo de execução de scripts Python através de uma interface de linha de comando intuitiva. Este é um reflexo do meu profundo conhecimento técnico e da minha abordagem autodidata para a resolução de problemas complexos. 🚀
 
+## 📸 Print do Console
+
+Aqui está um exemplo da interface do console do **PIPE Streamlit Launcher** em ação:
+
+![Print do Console](https://github.com/evolucaoit/PIPE_streamlit_launcher/blob/main/py_RNoNf5G3rB.png?raw=true)
+
 ## 📜 Sobre o Projeto
 
 **PIPE Streamlit Launcher** é uma ferramenta projetada para **facilitar a execução de aplicativos Streamlit** de maneira rápida e eficiente. Através de uma interface interativa no console, você pode navegar, selecionar e executar scripts Python diretamente, sem a necessidade de digitar longos comandos manualmente. Este projeto é uma prova da minha capacidade de desenvolver soluções práticas e elegantes que aumentam a produtividade e a eficiência no desenvolvimento de software. 🌟
