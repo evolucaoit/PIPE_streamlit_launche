@@ -19,6 +19,34 @@ O **PIPE Streamlit Launcher** foi criado para:
 - **🚀 Agilizar o Desenvolvimento**: Lançar rapidamente aplicativos Streamlit com uma interface de linha de comando fácil de usar.
 - **🔍 Facilitar a Navegação**: Oferecer uma maneira intuitiva de selecionar arquivos Python na raiz do projeto.
 - **💻 Demonstrar Expertise**: Exibir minha habilidade em criar ferramentas que integram diversos componentes tecnológicos para oferecer uma solução completa e funcional.
+## 🔍 Lógica do Programa
+
+O **PIPE Streamlit Launcher** foi desenvolvido com o objetivo de simplificar o lançamento de aplicações Streamlit a partir da linha de comando. Aqui está um resumo da lógica por trás do programa:
+
+1. **🖼️ Exibição do Logo**
+   - O programa inicia exibindo um logo em ASCII colorido, utilizando a biblioteca `colorama` para estilizar a saída no console.
+   
+2. **📁 Listagem de Arquivos Python**
+   - O script lista todos os arquivos `.py` presentes no diretório atual, identificando quais arquivos são candidatos a serem lançados com Streamlit.
+
+3. **💬 Interação com o Usuário**
+   - Utilizando a biblioteca `InquirerPy`, o programa apresenta uma interface de seleção no console, permitindo ao usuário escolher o arquivo `.py` desejado para execução.
+   
+4. **🚀 Execução do Comando**
+   - Após a seleção do arquivo, o script constrói um comando para iniciar o Streamlit com o arquivo escolhido e o executa usando `subprocess`.
+
+### 🧩 Diagrama de Lógica
+
+```mermaid
+graph TD
+    A[Iniciar Programa] --> B[Exibir Logo]
+    B --> C[Listar Arquivos .py]
+    C --> D{Arquivos Encontrados?}
+    D -- Não --> E[Mostrar Mensagem de Erro]
+    D -- Sim --> F[Selecionar Arquivo]
+    F --> G[Executar Comando Streamlit]
+    G --> H[Mostrar Comando Executado]
+```
 
 ## 🛠️ Funcionalidades
 
